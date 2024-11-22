@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{46741FC2-D1AB-4441-AD9B-6309793F9BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IN-MemoryCache", "IN-MemoryCache\IN-MemoryCache.csproj", "{4CD9A794-705C-4249-A027-E464E40B6DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD9A794-705C-4249-A027-E464E40B6DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD9A794-705C-4249-A027-E464E40B6DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD9A794-705C-4249-A027-E464E40B6DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD9A794-705C-4249-A027-E464E40B6DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4CD9A794-705C-4249-A027-E464E40B6DEA} = {46741FC2-D1AB-4441-AD9B-6309793F9BBB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC7181B-8488-4C0C-B0BF-63E2DE1D0300}
+	EndGlobalSection
+EndGlobal
